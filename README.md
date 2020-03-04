@@ -9,15 +9,10 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  Androidstudio作为客户端
+2.  Eclipse作为服务器
+3.  Oracle作为数据库
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
